@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require "pry"
 class Anagram
 
@@ -19,5 +20,8 @@ end
 
 
 end 
+=======
+# Your code goes here!
+>>>>>>> c36c766b1c3a8aa691645e39ffad3f436e36e09a
 
 
